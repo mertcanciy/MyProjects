@@ -1,6 +1,3 @@
-
-// Group Members: Hakan Sandikci 150119809, Mertcan Ciy 150119908, Fatih Genc 150119905
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
